@@ -1,33 +1,44 @@
-# İçerik 
+# İçerik
 
-* HTML
-* CSS
-* JS
+- HTML
+- CSS
+- JS
 
-## 
-* npm init
-* node Package management için package.json
-dosyası oluştur
+##
 
-* script
-* start(npm start)
-* server(npm run server)
+- npm init
+- node Package management için package.json
+  dosyası oluştur
+
+- script
+
+| script | açıklama                                                          |
+| ------ | ----------------------------------------------------------------- |
+| **start**  | npm start komutu ile birlikte çalıştırılacak script belirler      |
+| **server** | npm run server komutu ile birlikte çalıştırılacak script belirler |
+
+- start(npm start)
+- server(npm run server)
 
 ## git
-* git init 
 
-* git config --global user.email "email"
+- git init
 
-* git config --global user.name "name"
+- git config --global user.email "email"
 
-* git switch -c "brancname"
+- git config --global user.name "name"
 
-* git branch -a
+- git switch -c "brancname"
 
-* git checkout "brancname"
+- git branch -a
 
-* git merge "brancname"
+- git checkout "brancname"
 
-* git branch -d "brancname"
+- git merge "brancname"
 
-* git push origin -d "brancname"
+- git branch -d "brancname"
+
+- git push origin -d "brancname"
+
+```
+
